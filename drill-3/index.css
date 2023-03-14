@@ -1,0 +1,51 @@
+header {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.square {
+    width: 75px;
+    height: 75px;
+    background-color: #4A90E2;
+}
+
+.article {
+    padding: 50px;
+}
+
+.box {
+    height: 25vh;
+}
+
+.box1 {
+    background-color: lightblue;
+}
+
+.box2 {
+    background-color: lightgreen;
+}
+
+.box3 {
+    background-color: yellowgreen;
+}
+
+.box4 {
+    background-color: yellow;
+}
+
+.question-mark {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.question-mark button {
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+}
